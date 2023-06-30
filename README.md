@@ -5,7 +5,7 @@
   - 1.1. Design principles
   - 1.2. Syntax
 - [**2. Standrad Library**](https://github.com/qs-lang/docs/tree/main/2.%20Standard%20Library)
-  - 2.1. `def`
+  - [2.1. `def`](https://github.com/qs-lang/docs/blob/main/2.%20Standard%20Library/2.1.%20def.md)
   - 2.2. `priv`
   - 2.3. `use`
   - 2.4. `io`
