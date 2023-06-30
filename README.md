@@ -4,7 +4,7 @@
 - **1. Language and syntax**
   - 1.1. Design principles
   - 1.2. Syntax
-- **2. Standrad Library**
+- [**2. Standrad Library**](https://github.com/qs-lang/docs/tree/main/2.%20Standard%20Library)
   - 2.1. `def`
   - 2.2. `priv`
   - 2.3. `use`
